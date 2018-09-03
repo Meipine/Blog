@@ -75,8 +75,7 @@
 
 					所遇问题
 					1.SSH百度会的，需要总结一下。
-					2.添加远程库的时候应该在github上也要添加新仓库
+					2.添加远程库的时候应该在github上也要添加新仓库，如果在github上已经添加了readme文件，则需使用
+					  合并   git pull --rebase origin master
 
 时间：20180903
-
-
